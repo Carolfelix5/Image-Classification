@@ -7,7 +7,7 @@ This repository contains a comprehensive project focused on image processing and
 - Feature extraction techniques
 - Implementation of machine learning models
 - Performance evaluation metrics for classification tasks
-- Reproducible workflow in Jupyter Notebook format
+
 
 ## Getting Started
 
